@@ -2,7 +2,7 @@
 deploy:
   true:
     condition: $TOXENV == py27
-    repo: CloudHeads/serverless_exception
+    repo: CloudHeads/serverless_exceptions
     tags: true
   distributions: sdist
   password:
