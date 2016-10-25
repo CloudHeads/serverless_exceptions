@@ -20,7 +20,7 @@ test_requirements = [
 
 setup(
     name='serverless_exceptions',
-    version='0.1.0',
+    version='0.2.0',
     description="Exceptions for AWS Lambda in AWS Api Gateway to forward HTTP Exceptions with ththe Serverless Framework",
     long_description=readme + '\n\n' + history,
     author="Christoph Schabert",
