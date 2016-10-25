@@ -13,8 +13,9 @@ Serverless Exceptions
         :target: https://serverless-exceptions.readthedocs.io/en/latest/?badge=latest
         :alt: Documentation Status
 
-.. image:: https://pyup.io/repos/github/CloudHeads/serverless_exceptions/shield.svg
-     :target: https://pyup.io/repos/github/CloudHeads/serverless_exceptions/
+
+.. image:: https://pyup.io/repos/github/cloudheads/serverless_exceptions/shield.svg
+     :target: https://pyup.io/repos/github/cloudheads/serverless_exceptions/
      :alt: Updates
 
 
